@@ -24,18 +24,6 @@ Welcome to the **PyTorch Deep Learning** repository! This repository is part of 
    - Generate text with NLP models.  
    - Create custom datasets and train models from scratch.  
 
----
-
-## 📁 Repository Structure  
-
-- **`Notebooks/`**:  
-  Contains Jupyter notebooks with detailed explanations and code.  
-- **`Data/`**:  
-  Placeholder for datasets used in the tutorials and projects.  
-- **`Projects/`**:  
-  End-to-end deep learning projects with PyTorch.  
-
----
 
 ## 🚀 Getting Started  
 
